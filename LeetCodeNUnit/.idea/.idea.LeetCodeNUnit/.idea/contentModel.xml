@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/Rider2018.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2018.2/resharper-host/local/Transient/ReSharperHost/v182/SolutionCaches/_LeetCodeNUnit.-1773879685.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="LeetCodeNUnit.csproj" t="IncludeRecursive" />
+      <e p="LeetCodeNUnit.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+      </e>
+      <e p="Questions" t="Include">
+        <e p="Q1" t="Include">
+          <e p="Q1.cs" t="Include" />
+          <e p="Q1_Better.cs" t="Include" />
+        </e>
+      </e>
+    </e>
+  </component>
+</project>
