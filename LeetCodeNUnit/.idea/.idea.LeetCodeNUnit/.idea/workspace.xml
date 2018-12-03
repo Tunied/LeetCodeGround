@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aecaba75-0fea-48d7-a357-1f980bc453ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.LeetCodeNUnit/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.LeetCodeNUnit/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.LeetCodeNUnit/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.LeetCodeNUnit/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.LeetCodeNUnit/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Questions/Q1/Q1.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Questions/Q1/Q1_Better.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questions/Q13/Q13.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questions/Q7/Q7.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Questions/Q7/Q7_Better.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LeetCodeNUnit/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LeetCodeNUnit/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LeetCodeNUnit/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LeetCodeNUnit/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCodeNUnit.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCodeNUnit.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,40 +26,69 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="cs" value="3" />
+          <entry key="cs" value="10" />
           <entry key="csproj" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="C#" value="3" />
+          <entry key="C#" value="10" />
           <entry key="Csproj" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="337" />
+          <entry key="cs" value="1496" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="337" />
+          <entry key="C#" value="1496" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LeetCodeNUnit.csproj">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Questions/Q7/Q7.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="912">
+              <caret line="41" column="9" selection-start-line="9" selection-start-column="7" selection-end-line="41" selection-end-column="9" />
+              <folding>
+                <marker date="1543835090000" expanded="false" signature="6:82" ph="..." />
+                <marker date="1543835090000" expanded="true" signature="120:1156" ph="{...}" />
+                <marker date="1543835090000" expanded="true" signature="142:1154" ph="{...}" />
+                <marker date="1543835090000" expanded="true" signature="197:612" ph="{...}" />
+                <marker date="1543835090000" expanded="true" signature="648:1148" ph="{...}" />
+                <marker date="1543835090000" expanded="true" signature="885:972" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Questions/Q7/Q7_Better.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="744">
+              <caret line="31" column="33" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
+              <folding>
+                <marker date="1543835090000" expanded="true" signature="6:55" ph="..." />
+                <marker date="1543835090000" expanded="true" signature="93:976" ph="{...}" />
+                <marker date="1543835090000" expanded="true" signature="122:974" ph="{...}" />
+                <marker date="1543835090000" expanded="true" signature="177:599" ph="{...}" />
+                <marker date="1543835090000" expanded="true" signature="635:968" ph="{...}" />
+                <marker date="1543835090000" expanded="true" signature="793:924" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Questions/Q1/Q1.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+            <state relative-caret-position="960">
+              <caret line="40" column="9" selection-start-line="13" selection-start-column="6" selection-end-line="40" selection-end-column="9" />
               <folding>
                 <marker date="1543830848000" expanded="true" signature="36:1136" ph="{...}" />
                 <marker date="1543830848000" expanded="true" signature="43:318" ph="/// 给定一个整数数组 nums 和一个目标值 target，请你在该数组中找出和为目标值的 两个 整数。 ... " />
@@ -77,8 +106,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Questions/Q1/Q1_Better.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+            <state relative-caret-position="288">
+              <caret line="13" column="37" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="37" />
               <folding>
                 <marker date="1543830848000" expanded="false" signature="6:48" ph="..." />
                 <marker date="1543830848000" expanded="true" signature="86:1156" ph="{...}" />
@@ -94,14 +123,38 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Questions/Q13/Q13.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="691">
+              <caret line="39" column="30" lean-forward="true" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
+              <folding>
+                <marker date="1543838124000" expanded="true" signature="61:1884" ph="{...}" />
+                <marker date="1543838124000" expanded="true" signature="84:1882" ph="{...}" />
+                <marker date="1543838124000" expanded="true" signature="139:463" ph="{...}" />
+                <marker date="1543838124000" expanded="true" signature="505:842" ph="{...}" />
+                <marker date="1543838124000" expanded="true" signature="680:804" ph="{...}" />
+                <marker date="1543838124000" expanded="true" signature="852:1206" ph="/// I             1 ... " />
+                <marker date="1543838124000" expanded="true" signature="1267:1876" ph="{...}" />
+                <marker date="1543838124000" expanded="true" signature="1303:1843" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C95265F7-4FDF-4905-BFB0-D5A4B652216C/72/ff0c50fd/Number.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Questions/Q1/Q1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Questions/Q1/Q1_Better.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C95265F7-4FDF-4905-BFB0-D5A4B652216C/cc/8a5ea9e6/Int32.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Questions/Q7/Q7_Better.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Questions/Q7/Q7.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Questions/Q13/Q13.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -111,13 +164,16 @@
         <option value="$PROJECT_DIR$/Questions/Q1/Q1_Better.cs" />
         <option value="$PROJECT_DIR$/Questions/Q1/Q1.cs" />
         <option value="$PROJECT_DIR$/LeetCodeNUnit.csproj" />
+        <option value="$PROJECT_DIR$/Questions/Q2/Q2.cs" />
+        <option value="$PROJECT_DIR$/Questions/Q2/Q7.cs" />
+        <option value="$PROJECT_DIR$/Questions/Q7/Q7_Better.cs" />
+        <option value="$PROJECT_DIR$/Questions/Q13/Q13.cs" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="3440" />
-    <option name="height" value="1413" />
+    <option name="height" value="1440" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -145,6 +201,20 @@
               <item name="LeetCodeNUnit" type="24d0babc:SolutionExplorerModelNode" />
               <item name="LeetCodeNUnit" type="24d0babc:SolutionExplorerModelNode" />
               <item name="Questions" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="LeetCodeNUnit" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="LeetCodeNUnit" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Questions" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Q1" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="LeetCodeNUnit" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="LeetCodeNUnit" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Questions" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Q7" type="24d0babc:SolutionExplorerModelNode" />
             </path>
           </expand>
           <select />
@@ -179,12 +249,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1543829581313</updated>
-      <workItem from="1543829582510" duration="1150000" />
+      <workItem from="1543829582510" duration="5599000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1150000" />
+    <option name="totallyTimeSpent" value="5599000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -196,23 +266,23 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="3440" height="1413" extended-state="1" />
+    <frame x="0" y="0" width="3440" height="1440" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25177094" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25177094" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="NuGet" />
+      <window_info anchor="bottom" id="NuGet" weight="0.32949308" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Unit Tests" weight="0.32872504" />
+      <window_info active="true" anchor="bottom" id="Unit Tests" visible="true" weight="0.25906736" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Build" />
+      <window_info anchor="bottom" id="Build" weight="0.32938564" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39938557" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39896372" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -238,10 +308,64 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Tests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCodeNUnit.csproj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C95265F7-4FDF-4905-BFB0-D5A4B652216C/72/ff0c50fd/Number.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="813" column="20" selection-start-line="813" selection-start-column="20" selection-end-line="813" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C95265F7-4FDF-4905-BFB0-D5A4B652216C/cc/8a5ea9e6/Int32.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="102" column="23" selection-start-line="102" selection-start-column="23" selection-end-line="102" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Questions/Q7/Q7.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="41" column="9" selection-start-line="9" selection-start-column="7" selection-end-line="41" selection-end-column="9" />
+          <folding>
+            <marker date="1543835090000" expanded="false" signature="6:82" ph="..." />
+            <marker date="1543835090000" expanded="true" signature="120:1156" ph="{...}" />
+            <marker date="1543835090000" expanded="true" signature="142:1154" ph="{...}" />
+            <marker date="1543835090000" expanded="true" signature="197:612" ph="{...}" />
+            <marker date="1543835090000" expanded="true" signature="648:1148" ph="{...}" />
+            <marker date="1543835090000" expanded="true" signature="885:972" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Questions/Q7/Q7_Better.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="744">
+          <caret line="31" column="33" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
+          <folding>
+            <marker date="1543835090000" expanded="true" signature="6:55" ph="..." />
+            <marker date="1543835090000" expanded="true" signature="93:976" ph="{...}" />
+            <marker date="1543835090000" expanded="true" signature="122:974" ph="{...}" />
+            <marker date="1543835090000" expanded="true" signature="177:599" ph="{...}" />
+            <marker date="1543835090000" expanded="true" signature="635:968" ph="{...}" />
+            <marker date="1543835090000" expanded="true" signature="793:924" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Questions/Q1/Q1.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        <state relative-caret-position="960">
+          <caret line="40" column="9" selection-start-line="13" selection-start-column="6" selection-end-line="40" selection-end-column="9" />
           <folding>
             <marker date="1543830848000" expanded="true" signature="36:1136" ph="{...}" />
             <marker date="1543830848000" expanded="true" signature="43:318" ph="/// 给定一个整数数组 nums 和一个目标值 target，请你在该数组中找出和为目标值的 两个 整数。 ... " />
@@ -257,8 +381,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Questions/Q1/Q1_Better.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+        <state relative-caret-position="288">
+          <caret line="13" column="37" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="37" />
           <folding>
             <marker date="1543830848000" expanded="false" signature="6:48" ph="..." />
             <marker date="1543830848000" expanded="true" signature="86:1156" ph="{...}" />
@@ -273,15 +397,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tests.cs">
+    <entry file="file://$PROJECT_DIR$/Questions/Q13/Q13.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="30" />
+        <state relative-caret-position="691">
+          <caret line="39" column="30" lean-forward="true" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
+          <folding>
+            <marker date="1543838124000" expanded="true" signature="61:1884" ph="{...}" />
+            <marker date="1543838124000" expanded="true" signature="84:1882" ph="{...}" />
+            <marker date="1543838124000" expanded="true" signature="139:463" ph="{...}" />
+            <marker date="1543838124000" expanded="true" signature="505:842" ph="{...}" />
+            <marker date="1543838124000" expanded="true" signature="680:804" ph="{...}" />
+            <marker date="1543838124000" expanded="true" signature="852:1206" ph="/// I             1 ... " />
+            <marker date="1543838124000" expanded="true" signature="1267:1876" ph="{...}" />
+            <marker date="1543838124000" expanded="true" signature="1303:1843" ph="{...}" />
+          </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCodeNUnit.csproj">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
