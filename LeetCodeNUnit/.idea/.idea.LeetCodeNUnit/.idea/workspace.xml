@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aecaba75-0fea-48d7-a357-1f980bc453ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Questions/Q13/Q13.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Questions/Q7/Q7.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Questions/Q7/Q7_Better.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.LeetCodeNUnit/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LeetCodeNUnit/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.LeetCodeNUnit/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LeetCodeNUnit/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCodeNUnit.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCodeNUnit.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,8 +14,10 @@
     <session id="614677620">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -49,7 +45,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Questions/Q7/Q7.cs">
           <provider selected="true" editor-type-id="text-editor">
@@ -57,7 +53,6 @@
               <caret line="41" column="9" selection-start-line="9" selection-start-column="7" selection-end-line="41" selection-end-column="9" />
               <folding>
                 <marker date="1543835090000" expanded="false" signature="6:82" ph="..." />
-                <marker date="1543835090000" expanded="true" signature="120:1156" ph="{...}" />
                 <marker date="1543835090000" expanded="true" signature="142:1154" ph="{...}" />
                 <marker date="1543835090000" expanded="true" signature="197:612" ph="{...}" />
                 <marker date="1543835090000" expanded="true" signature="648:1148" ph="{...}" />
@@ -74,7 +69,6 @@
               <caret line="31" column="33" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
               <folding>
                 <marker date="1543835090000" expanded="true" signature="6:55" ph="..." />
-                <marker date="1543835090000" expanded="true" signature="93:976" ph="{...}" />
                 <marker date="1543835090000" expanded="true" signature="122:974" ph="{...}" />
                 <marker date="1543835090000" expanded="true" signature="177:599" ph="{...}" />
                 <marker date="1543835090000" expanded="true" signature="635:968" ph="{...}" />
@@ -90,7 +84,6 @@
             <state relative-caret-position="960">
               <caret line="40" column="9" selection-start-line="13" selection-start-column="6" selection-end-line="40" selection-end-column="9" />
               <folding>
-                <marker date="1543830848000" expanded="true" signature="36:1136" ph="{...}" />
                 <marker date="1543830848000" expanded="true" signature="43:318" ph="/// 给定一个整数数组 nums 和一个目标值 target，请你在该数组中找出和为目标值的 两个 整数。 ... " />
                 <marker date="1543830848000" expanded="true" signature="338:1134" ph="{...}" />
                 <marker date="1543830848000" expanded="true" signature="396:818" ph="{...}" />
@@ -110,7 +103,6 @@
               <caret line="13" column="37" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="37" />
               <folding>
                 <marker date="1543830848000" expanded="false" signature="6:48" ph="..." />
-                <marker date="1543830848000" expanded="true" signature="86:1156" ph="{...}" />
                 <marker date="1543830848000" expanded="true" signature="93:162" ph="/// 使用HashtableCache结果,减少两遍For循环 ... " />
                 <marker date="1543830848000" expanded="true" signature="189:1154" ph="{...}" />
                 <marker date="1543830848000" expanded="true" signature="246:537" ph="{...}" />
@@ -126,8 +118,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Questions/Q13/Q13.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="691">
-              <caret line="39" column="30" lean-forward="true" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
+            <state relative-caret-position="168">
+              <caret line="18" selection-start-line="18" selection-end-line="65" selection-end-column="9" />
               <folding>
                 <marker date="1543838124000" expanded="true" signature="61:1884" ph="{...}" />
                 <marker date="1543838124000" expanded="true" signature="84:1882" ph="{...}" />
@@ -191,31 +183,6 @@
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="LeetCodeNUnit" type="24d0babc:SolutionExplorerModelNode" />
             </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="LeetCodeNUnit" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="LeetCodeNUnit" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="LeetCodeNUnit" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="LeetCodeNUnit" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Questions" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="LeetCodeNUnit" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="LeetCodeNUnit" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Questions" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Q1" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
-            <path>
-              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
-              <item name="LeetCodeNUnit" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="LeetCodeNUnit" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Questions" type="24d0babc:SolutionExplorerModelNode" />
-              <item name="Q7" type="24d0babc:SolutionExplorerModelNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -249,12 +216,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1543829581313</updated>
-      <workItem from="1543829582510" duration="5599000" />
+      <workItem from="1543829582510" duration="5701000" />
+      <workItem from="1543903896473" duration="127000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5599000" />
+    <option name="totallyTimeSpent" value="5828000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -269,16 +237,9 @@
     <frame x="0" y="0" width="3440" height="1440" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25177094" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25354192" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="NuGet" weight="0.32949308" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Unit Tests" visible="true" weight="0.25906736" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Build" weight="0.32938564" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -286,13 +247,20 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.32949308" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="10" weight="0.25906736" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="13" weight="0.32938564" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
     </layout>
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -308,13 +276,7 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Tests.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Tests.cs" />
     <entry file="file://$PROJECT_DIR$/LeetCodeNUnit.csproj">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -338,7 +300,6 @@
           <caret line="41" column="9" selection-start-line="9" selection-start-column="7" selection-end-line="41" selection-end-column="9" />
           <folding>
             <marker date="1543835090000" expanded="false" signature="6:82" ph="..." />
-            <marker date="1543835090000" expanded="true" signature="120:1156" ph="{...}" />
             <marker date="1543835090000" expanded="true" signature="142:1154" ph="{...}" />
             <marker date="1543835090000" expanded="true" signature="197:612" ph="{...}" />
             <marker date="1543835090000" expanded="true" signature="648:1148" ph="{...}" />
@@ -353,7 +314,6 @@
           <caret line="31" column="33" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
           <folding>
             <marker date="1543835090000" expanded="true" signature="6:55" ph="..." />
-            <marker date="1543835090000" expanded="true" signature="93:976" ph="{...}" />
             <marker date="1543835090000" expanded="true" signature="122:974" ph="{...}" />
             <marker date="1543835090000" expanded="true" signature="177:599" ph="{...}" />
             <marker date="1543835090000" expanded="true" signature="635:968" ph="{...}" />
@@ -367,7 +327,6 @@
         <state relative-caret-position="960">
           <caret line="40" column="9" selection-start-line="13" selection-start-column="6" selection-end-line="40" selection-end-column="9" />
           <folding>
-            <marker date="1543830848000" expanded="true" signature="36:1136" ph="{...}" />
             <marker date="1543830848000" expanded="true" signature="43:318" ph="/// 给定一个整数数组 nums 和一个目标值 target，请你在该数组中找出和为目标值的 两个 整数。 ... " />
             <marker date="1543830848000" expanded="true" signature="338:1134" ph="{...}" />
             <marker date="1543830848000" expanded="true" signature="396:818" ph="{...}" />
@@ -385,7 +344,6 @@
           <caret line="13" column="37" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="37" />
           <folding>
             <marker date="1543830848000" expanded="false" signature="6:48" ph="..." />
-            <marker date="1543830848000" expanded="true" signature="86:1156" ph="{...}" />
             <marker date="1543830848000" expanded="true" signature="93:162" ph="/// 使用HashtableCache结果,减少两遍For循环 ... " />
             <marker date="1543830848000" expanded="true" signature="189:1154" ph="{...}" />
             <marker date="1543830848000" expanded="true" signature="246:537" ph="{...}" />
@@ -399,8 +357,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Questions/Q13/Q13.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="691">
-          <caret line="39" column="30" lean-forward="true" selection-start-line="39" selection-start-column="30" selection-end-line="39" selection-end-column="30" />
+        <state relative-caret-position="168">
+          <caret line="18" selection-start-line="18" selection-end-line="65" selection-end-column="9" />
           <folding>
             <marker date="1543838124000" expanded="true" signature="61:1884" ph="{...}" />
             <marker date="1543838124000" expanded="true" signature="84:1882" ph="{...}" />
