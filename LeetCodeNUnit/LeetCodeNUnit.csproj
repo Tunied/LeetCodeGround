@@ -43,11 +43,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Questions\Q13\Q13.cs" />
+    <Compile Include="Questions\Q14\Q14.cs" />
     <Compile Include="Questions\Q1\Q1_Better.cs" />
     <Compile Include="Questions\Q1\Q1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Questions\Q7\Q7.cs" />
     <Compile Include="Questions\Q7\Q7_Better.cs" />
+    <Compile Include="Questions\Q9\Q9.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -20,9 +20,15 @@
         <e p="Q13" t="Include">
           <e p="Q13.cs" t="Include" />
         </e>
+        <e p="Q14" t="Include">
+          <e p="Q14.cs" t="Include" />
+        </e>
         <e p="Q7" t="Include">
           <e p="Q7.cs" t="Include" />
           <e p="Q7_Better.cs" t="Include" />
+        </e>
+        <e p="Q9" t="Include">
+          <e p="Q9.cs" t="Include" />
         </e>
       </e>
     </e>
